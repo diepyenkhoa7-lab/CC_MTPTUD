@@ -1,5 +1,5 @@
 <!-- src/components/Counter.vue -->
-<script setup>
+<script setup lang="ts">
 import { ref } from 'vue'
 
 // Khai báo state có tính phản ứng (Reactivity)
